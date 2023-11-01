@@ -7,7 +7,7 @@
 ### About me:
 LKD mail: seyma.sarigil@penguen.org.tr
 - I am currently working as a **software developer** in [getir](https://getir.com/).
-- I have a lifelong dream to program **Python, AI, ML, FastAPI, Django, Flask**.
+- I have a lifelong dream to program **Python Adv., AI, ML, Gen-AI, NLP, FastAPI, Django, Flask**.
 - I am an **open source** and **free software** advocate.
 
 <div align=center>
