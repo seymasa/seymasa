@@ -6,7 +6,7 @@
 
 ### About me:
 LKD mail: seyma.sarigil@penguen.org.tr
-- I am currently working as a **AI Engineer** in [işbank-softtech](https://softtech.com.tr/).
+- I am currently working as a **AI Engineer** in [Türkiye İş Bankası-SOFTTECH](https://softtech.com.tr/).
 - I have a lifelong dream to program **Python Adv., AI, ML, Gen-AI, NLP, FastAPI, Django, Flask**.
 - I am an **open source** and **free software** advocate.
 
