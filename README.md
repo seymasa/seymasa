@@ -5,7 +5,10 @@
 </div>
 
 ### About me:
-LKD mail: seyma.sarigil@penguen.org.tr
+LKD mail      : seyma.sarigil@penguen.org.tr
+nanelimon mail: seyma.sarigil@nanelimon.ai
+softtech mail : seyma.sarigil@softtech.com.tr
+işbank mail   : seyma.sarigil@softtech.isbank.com.tr
 - I am currently working as an **AI Engineer** in [Türkiye İş Bankası-SOFTTECH](https://softtech.com.tr/).
 - I have a lifelong dream to program **Python Adv., AI, ML, Gen-AI, NLP, FastAPI, Django, Flask**.
 - I am an **open source** and **free software** advocate.
