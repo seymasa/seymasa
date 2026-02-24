@@ -11,7 +11,7 @@
 
 ### 📌 About Me
 - I am currently working as an **Snr. AI Engineer** at [Softtech](https://softtech.com.tr/).  
-- I have 7+ years of experience in **Natural Language Processing (NLP)**, **Machine Learning**, and **Generative AI**.  
+- I have 8+ years of experience in **Natural Language Processing (NLP)**, **Machine Learning**, and **Generative AI**.  
 - Passionate about **Python Adv., AI, ML, Gen-AI, NLP, FastAPI, Django, Flask**.  
 - Strong advocate of **open-source** and **free software**.  
 - Technical Leader at [Nane&Limon Turkish NLP Community](https://github.com/nanelimon-organization).  
